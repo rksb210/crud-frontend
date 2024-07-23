@@ -1,0 +1,24 @@
+.main_header{
+   display: flex;
+   width: 100%;  
+}
+.main_header ul{
+   display: flex;
+   justify-content: space-around;
+   background-color: black;
+   color: white;
+   align-items: center;
+   height: 5rem;
+   font-size: 2.5rem;
+   width: 100%;
+   list-style: none;
+   cursor: pointer; 
+   margin: 0;
+   padding: 0;
+   margin-left: auto;
+}
+/* .main_header ul li{
+    flex: 1;
+    text-align: center;
+} */
+
